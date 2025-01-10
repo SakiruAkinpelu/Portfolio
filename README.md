@@ -74,7 +74,7 @@ To create a platform that predicts employee attrition, analyzes performance tren
 
 **From Overstock to On-Point: T.T Inc.'s Inventory Optimization Journey.**
 
-![image](Image 3 SQL.PNG)
+![image](Image 4 PowerBI.PNG)
 
 The team is having a supply chain strategy meeting for the following year, and i was asked to present insights from the inventory data to inform the inventory optimization strategy and enhance operational efficiency.
 I have been asked by the Head of Supply Chain Management to present data insights and optimization strategies for inventory management. Within the Supply Chain Management team, The objectives are:
