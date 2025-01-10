@@ -43,6 +43,17 @@ Hello! I'm Sakiru Akinpelu 🤓, a data analyst, Proactive and results-oriented 
 
 *A glimpse of some of the projects I've been working on.*
 
+
+**TECHTRONIX: A hi-tech case study using PowerBI.**
+
+![image](Image 4 PowerBI.PNG)
+
+Techtronix Innovations, a forefront player in the microchip and robotics industry, is encountering challenges in streamlining its sales strategies, optimizing production planning, and pursuing market expansion. The company boasts an extensive portfolio that caters to automotive, consumer electronics, and industrial sectors. However, it grapples with demand unpredictability, inventory management inefficiencies, and the identification of profitable market opportunities.
+
+Over the previous year, Techtronix Innovations has meticulously compiled a dataset encompassing each transaction, encompassing sales data, customer interactions, product specifics, and financial metrics. This dataset presents an invaluable opportunity for in-depth business performance analysis, trend identification, and insight extraction to inform strategic decisions.
+
+<a href="pdf 4 PowerBI.pdf">Download the Report here (pdf file)</a>
+
 **DigitalPath Innovations An ecommerce case study using Tableau.**
 ![image](Image 1.PNG)
 
@@ -72,15 +83,6 @@ To create a platform that predicts employee attrition, analyzes performance tren
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
-**TECHTRONIX: A hi-tech case study using PowerBI.**
-
-![image](Image 4 PowerBI.PNG)
-
-Techtronix Innovations, a forefront player in the microchip and robotics industry, is encountering challenges in streamlining its sales strategies, optimizing production planning, and pursuing market expansion. The company boasts an extensive portfolio that caters to automotive, consumer electronics, and industrial sectors. However, it grapples with demand unpredictability, inventory management inefficiencies, and the identification of profitable market opportunities.
-
-Over the previous year, Techtronix Innovations has meticulously compiled a dataset encompassing each transaction, encompassing sales data, customer interactions, product specifics, and financial metrics. This dataset presents an invaluable opportunity for in-depth business performance analysis, trend identification, and insight extraction to inform strategic decisions.
-
-<a href="pdf 4 PowerBI.pdf">Download the Report here (pdf file)</a>
 
 **User Experience (UX) Analysis for FlexTrade Online Shopping App using Excel.**
 
@@ -103,11 +105,13 @@ app even better for users.
 
 ![image](Image 3 SQL.PNG)
 
-The team is having a supply chain strategy meeting for the following year, and i was asked to present insights from the inventory data to inform the inventory optimization strategy and enhance operational efficiency.
+The team is having a supply chain strategy meeting for the following year, and I was asked to present insights from the inventory data to inform the inventory optimization strategy and enhance operational efficiency.
 I have been asked by the Head of Supply Chain Management to present data insights and optimization strategies for inventory management. Within the Supply Chain Management team, The objectives are:
 
 ● Optimize inventory levels to minimize overstock and understock situations.
+
 ● Understanding seasonal trend of sales for different products.
+
 ● Improve customer satisfaction by ensuring product availability.
 
 <a href="PDF 3 SQL.pdf">Download the Report here (pdf file)</a>
