@@ -74,9 +74,14 @@ To create a platform that predicts employee attrition, analyzes performance tren
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
-![image](3 anietie etuk data analytics agro project.jpg)
+![image](Image 3 SQL.PNG)
 
-Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
+The team is having a supply chain strategy meeting for the following year, and i was asked to present insights from the inventory data to inform the inventory optimization strategy and enhance operational efficiency.
+I have been asked by the Head of Supply Chain Management to present data insights and optimization strategies for inventory management. Within the Supply Chain Management team, The objectives are:
+
+● Optimize inventory levels to minimize overstock and understock situations.
+● Understanding seasonal trend of sales for different products.
+● Improve customer satisfaction by ensuring product availability.
 
 <a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
 
