@@ -41,7 +41,7 @@ Hello! I'm Sakiru Akinpelu 🤓, a data analyst, Proactive and results-oriented 
 <!--Section 2: List 3-4 key projects-->
 ## MY PORTFOLIO 
 
-*A glimpse of some of the projects I've been working on.*
+**A glimpse of some of the projects I've worked on.**
 
 **StrideStyle Retailer Performance Analysis using PowerBI.**
 
