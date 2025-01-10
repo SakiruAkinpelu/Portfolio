@@ -8,19 +8,33 @@ Hello! I'm Sakiru Akinpelu 🤓, a data analyst, Proactive and results-oriented 
 ## CORE AND TECHNICAL SKILLS 
 
 **- ✅ Data Analytics**
+
 **- ✅ Data Modelling**
+
 **- ✅ Data Visualization**
+
 **- ✅ Modelling**
+
 **- ✅ SQL**
+
 **- ✅ Problem Solving**
+
 **- ✅ Teamwork and Collaboration**
+
 **- ✅ Communication Skills  (Written and Verbal)**
+
 **- ✅ Planning/organization skills**
+
 **- ✅ MS Excel**
+
 **- ✅ Power BI**
+
 **- ✅ Tableau**
+
 **- ✅ Microsoft Fabrics**
+
 **- ✅ Google**
+
 **- ✅ Analytics**
 
 
@@ -72,7 +86,7 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:anietieetuk@gmail.com">anietieetuk@gmail.com</a></td>
+      <td><a href="sakiruakinpelu1@gmail.com">anietieetuk@gmail.com</a></td>
     </tr>
     <tr>
       <td>📞</td>
@@ -89,10 +103,6 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
     <tr>
       <td>🌐</td>
       <td><a href="https://www.linkedin.com/in/sakiruakinpelu/">Check me out on LinkedIn</a></td>
-    </tr>
-    <tr>
-      <td>📺</td>
-      <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials on YouTube</a></td>
     </tr>
   </tbody>
 </table>
