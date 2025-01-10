@@ -50,7 +50,7 @@ identify which webpage version performs better across various user engagement me
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
-![image](2 anietie etuk data analytics sales project.jpg)
+![image](Image 2 Attrition Dashboard new.PNG)
 
 On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
 
