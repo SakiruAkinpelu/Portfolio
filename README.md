@@ -67,7 +67,8 @@ identify which webpage version performs better across various user engagement me
 ![image](Image 2 Attrition Dashboard new.PNG)
 
 To create a platform that predicts employee attrition, analyzes performance trends, and recommends personalized retention strategies based on historical and real-time data 
-<a href="pdf 1 Tableau.pdf">Download the Report here (pdf file)</a>
+
+<a href="Pdf 2 Team Vega Project Presentation .pdf">Download the Report here (pdf file)</a>
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
