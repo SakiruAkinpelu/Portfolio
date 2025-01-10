@@ -62,7 +62,7 @@ Plume, a well-established e-commerce retailer, is, looking to gain deeper insigh
 [Read More](https://www.linkedin.com/posts/sakiruakinpelu_sakirudataanalyticsjourneywith10alytics-dataanalytics-activity-7213181313309184001-qmG5?utm_source=share&utm_medium=member_desktop)
 
 
-**TECHTRONIX: A hi-tech case study using PowerBI.**
+**TECHTRONIX: A Sales, Customer and Product Analysis using PowerBI.**
 
 ![image](Image 4 PowerBI.PNG)
 
@@ -72,7 +72,7 @@ Over the previous year, Techtronix Innovations has meticulously compiled a datas
 
 <a href="pdf 4 PowerBI.pdf">Download the Report here (pdf file)</a>
 
-**DigitalPath Innovations An ecommerce case study using Tableau.**
+**DigitalPath Innovations User Experience Analysis using Tableau.**
 ![image](Image 1.PNG)
 
 DigitalPath Innovations, a leader in digital marketing solutions, seeks to enhance its website's user
@@ -88,7 +88,7 @@ identify which webpage version performs better across various user engagement me
 <a href="pdf 1 Tableau.pdf">Download the Report here (pdf file)</a>
 
 
-**Data-Driven Employee Performance and Retention Platform.**
+**Data-Driven Employee Performance and Retention Platform Amalysis Using PowerBI.**
 
 ![image](Image 2 Attrition Dashboard new.PNG)
 
@@ -116,7 +116,7 @@ app even better for users.
 
 <a href="pdf 5 Excel flextrade.pdf">Download the Report here (pdf file)</a>
 
-**From Overstock to On-Point: T.T Inc.'s Inventory Optimization Journey.**
+**From Overstock to On-Point: T.T Inc.'s Inventory Optimization Analysis.**
 
 ![image](Image 3 SQL.PNG)
 
