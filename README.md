@@ -7,33 +7,19 @@ Hello! I'm Sakiru Akinpelu 🤓, a data analyst, Proactive and results-oriented 
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## CORE AND TECHNICAL SKILLS 
 
-**- ✅ Data Analytics**
+**- ✅ Data Analytics**                   **- ✅ Data Modelling**
 
-**- ✅ Data Modelling**
+**- ✅ Data Visualization**               **- ✅ Modelling**
 
-**- ✅ Data Visualization**
+**- ✅ SQL**                              **- ✅ Problem Solving**
 
-**- ✅ Modelling**
+**- ✅ Teamwork and Collaboration**       **- ✅ Communication Skills  (Written and Verbal)**
 
-**- ✅ SQL**
+**- ✅ Planning/organization skills**     **- ✅ MS Excel**
 
-**- ✅ Problem Solving**
+**- ✅ Power BI**                         **- ✅ Tableau**
 
-**- ✅ Teamwork and Collaboration**
-
-**- ✅ Communication Skills  (Written and Verbal)**
-
-**- ✅ Planning/organization skills**
-
-**- ✅ MS Excel**
-
-**- ✅ Power BI**
-
-**- ✅ Tableau**
-
-**- ✅ Microsoft Fabrics**
-
-**- ✅ Google**
+**- ✅ Microsoft Fabrics**                **- ✅ Google**
 
 **- ✅ Analytics**
 
