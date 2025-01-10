@@ -73,6 +73,7 @@ Over the previous year, Techtronix Innovations has meticulously compiled a datas
 <a href="pdf 4 PowerBI.pdf">Download the Report here (pdf file)</a>
 
 **DigitalPath Innovations User Experience Analysis using Tableau.**
+
 ![image](Image 1.PNG)
 
 DigitalPath Innovations, a leader in digital marketing solutions, seeks to enhance its website's user
