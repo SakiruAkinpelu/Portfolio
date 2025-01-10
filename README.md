@@ -97,7 +97,7 @@ FlexTrade wants to keep improving their app to make sure they stay ahead in the
 competitive online shopping market. This project will look into how they can make their
 app even better for users.
 
-<a href="pdf 4 PowerBI.pdf">Download the Report here (pdf file)</a>
+<a href="pdf 5 Excel flextrade.pdf">Download the Report here (pdf file)</a>
 
 **From Overstock to On-Point: T.T Inc.'s Inventory Optimization Journey.**
 
