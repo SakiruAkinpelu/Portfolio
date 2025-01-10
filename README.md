@@ -82,13 +82,20 @@ Over the previous year, Techtronix Innovations has meticulously compiled a datas
 
 <a href="pdf 4 PowerBI.pdf">Download the Report here (pdf file)</a>
 
-**TECHTRONIX: A hi-tech case study using PowerBI.**
+**User Experience (UX) Analysis for FlexTrade Online Shopping App using Excel.**
 
-![image](Image 4 PowerBI.PNG)
+![image](Image 5 flextrade Excel.PNG)
 
-Techtronix Innovations, a forefront player in the microchip and robotics industry, is encountering challenges in streamlining its sales strategies, optimizing production planning, and pursuing market expansion. The company boasts an extensive portfolio that caters to automotive, consumer electronics, and industrial sectors. However, it grapples with demand unpredictability, inventory management inefficiencies, and the identification of profitable market opportunities.
+FlexTrade is a well-known company in the online shopping world. They have been
+making shopping easier and better for a long time. They sell all kinds of things, from
+electronics to clothes.
 
-Over the previous year, Techtronix Innovations has meticulously compiled a dataset encompassing each transaction, encompassing sales data, customer interactions, product specifics, and financial metrics. This dataset presents an invaluable opportunity for in-depth business performance analysis, trend identification, and insight extraction to inform strategic decisions.
+Their app is designed to be easy to use, hoping to make shopping fun and simple for
+everyone.
+
+FlexTrade wants to keep improving their app to make sure they stay ahead in the
+competitive online shopping market. This project will look into how they can make their
+app even better for users.
 
 <a href="pdf 4 PowerBI.pdf">Download the Report here (pdf file)</a>
 
