@@ -88,7 +88,7 @@ identify which webpage version performs better across various user engagement me
 <a href="pdf 1 Tableau.pdf">Download the Report here (pdf file)</a>
 
 
-**Data-Driven Employee Performance and Retention Platform Amalysis Using PowerBI.**
+**Data-Driven Employee Performance and Retention Platform Analysis Using PowerBI.**
 
 ![image](Image 2 Attrition Dashboard new.PNG)
 
