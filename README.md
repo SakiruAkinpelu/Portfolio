@@ -43,7 +43,7 @@ Hello! I'm Sakiru Akinpelu 🤓, a data analyst, Proactive and results-oriented 
 
 *A glimpse of some of the projects I've been working on.*
 
-**Case Study: StrideStyle using PowerBI.**
+**StrideStyle Retailer Performance Analysis using PowerBI.**
 
 ![image](Stridestyle Dashboard.PNG)
 
@@ -54,12 +54,12 @@ through brick-and-mortar stores across multiple locations, the company is commit
 
 **Plume: A Customer Behaviour Analysis using Excel.**
 
-![image](Image 4 PowerBI.PNG)
+![image](Plume.PNG)
 
 Plume, a well-established e-commerce retailer, is, looking to gain deeper insights into customer behaviour to improve their online shopping experience and boost sales. ABC Retail has observed that their e-commerce platform is not achieving the desired level of success, given the substantial investment made in its development. The return on investment (ROI) for their online store has been lower than anticipated, indicating a need to enhance its revenue-generating capabilities.
 
-<a href="pdf 4 PowerBI.pdf">Download the Report here (pdf file)</a>
 
+[Read More](https://www.linkedin.com/posts/sakiruakinpelu_sakirudataanalyticsjourneywith10alytics-dataanalytics-activity-7213181313309184001-qmG5?utm_source=share&utm_medium=member_desktop)
 
 
 **TECHTRONIX: A hi-tech case study using PowerBI.**
