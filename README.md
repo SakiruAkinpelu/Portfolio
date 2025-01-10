@@ -7,31 +7,21 @@ Hello! I'm Sakiru Akinpelu 🤓, a data analyst, Proactive and results-oriented 
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## CORE AND TECHNICAL SKILLS 
 
-Data Analytics
-Data Modelling
-Data Visualization
-Modelling 
-SQL 
-Problem Solving 
-Teamwork and  
-Collaboration 
-Communication Skills  (Written and Verbal) 
-Planning/organizatio n skills
-MS Excel 
-Power BI 
-Tableau 
-Microsoft Fabrics  
-Google
-Analytics
-
-
-*As the Chief Analyst of SkillAhead Solutions Ltd, I provide consulting and training services for businesses and mentor aspiring analysts.*
-
-**- ✅ Data Analytics Consulting.**
-I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
-
-**- ✅ Staff Training & Development.**
-I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels. 
+**- ✅ Data Analytics**
+**- ✅ Data Modelling**
+**- ✅ Data Visualization**
+**- ✅ Modelling**
+**- ✅ SQL**
+**- ✅ Problem Solving**
+**- ✅ Teamwork and Collaboration**
+**- ✅ Communication Skills  (Written and Verbal)**
+**- ✅ Planning/organization skills**
+**- ✅ MS Excel**
+**- ✅ Power BI**
+**- ✅ Tableau**
+**- ✅ Microsoft Fabrics**
+**- ✅ Google**
+**- ✅ Analytics**
 
 
 <!--Section 2: List 3-4 key projects-->
@@ -39,14 +29,21 @@ I offer comprehensive training programs in data analysis, visualization, and dat
 
 *A glimpse of some of the projects I've been working on.*
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**DigitalPath Innovations An ecommerce case study using Tableau.**
 ![image](Image 1.PNG)
 
-The sinking of the Titanic is one of the most infamous shipwrecks in history.
+DigitalPath Innovations, a leader in digital marketing solutions, seeks to enhance its website's user
+
+experience to improve engagement metrics, conversion rates, and customer satisfaction. The
+
+company has conducted an A/B test over a two-week period, presenting two distinct versions of its
+
+webpage (Version A and Version B) to a randomized group of users. This experiment aims to
+
+identify which webpage version performs better across various user engagement metrics.
 
 <a href="pdf 1 Tableau.pdf">Download the Report here (pdf file)</a>
 
-pdf 1 Tableau.pdf
 
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
