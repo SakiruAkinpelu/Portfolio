@@ -45,14 +45,12 @@ Hello! I'm Sakiru Akinpelu 🤓, a data analyst, Proactive and results-oriented 
 
 **Case Study: StrideStyle using PowerBI.**
 
-![image](Image 4 PowerBI.PNG)
+![image](Stridestyle Dashboard.PNG)
 
 StrideStyle Footwear is a leading manufacturer specializing in footwear, offering a wide range of trendy and high-quality shoes for men, women, and children. With a diverse selection of brands and styles, StrideStyle Footwear aims to cater to the fashion preferences and lifestyle needs of its diverse customer base. Operating both online and
 through brick-and-mortar stores across multiple locations, the company is committed to providing exceptional customer service and fostering a memorable shopping experience.
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
-
-<a href="pdf 4 PowerBI.pdf">Download the Report here (pdf file)</a>
+[Read More](https://www.linkedin.com/posts/sakiruakinpelu_dataanalytics-powerbi-dashboard-activity-7219370239552028676-LjJ5?utm_source=share&utm_medium=member_desktop)
 
 
 **TECHTRONIX: A hi-tech case study using PowerBI.**
