@@ -72,18 +72,25 @@ To create a platform that predicts employee attrition, analyzes performance tren
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
-**From Overstock to On-Point: T.T Inc.'s Inventory Optimization Journey.**
+**TECHTRONIX: A hi-tech case study using PowerBI.**
 
 ![image](Image 4 PowerBI.PNG)
 
-The team is having a supply chain strategy meeting for the following year, and i was asked to present insights from the inventory data to inform the inventory optimization strategy and enhance operational efficiency.
-I have been asked by the Head of Supply Chain Management to present data insights and optimization strategies for inventory management. Within the Supply Chain Management team, The objectives are:
+Techtronix Innovations, a forefront player in the microchip and robotics industry, is encountering challenges in streamlining its sales strategies, optimizing production planning, and pursuing market expansion. The company boasts an extensive portfolio that caters to automotive, consumer electronics, and industrial sectors. However, it grapples with demand unpredictability, inventory management inefficiencies, and the identification of profitable market opportunities.
 
-● Optimize inventory levels to minimize overstock and understock situations.
-● Understanding seasonal trend of sales for different products.
-● Improve customer satisfaction by ensuring product availability.
+Over the previous year, Techtronix Innovations has meticulously compiled a dataset encompassing each transaction, encompassing sales data, customer interactions, product specifics, and financial metrics. This dataset presents an invaluable opportunity for in-depth business performance analysis, trend identification, and insight extraction to inform strategic decisions.
 
-<a href="PDF 3 SQL.pdf">Download the Report here (pdf file)</a>
+<a href="pdf 4 PowerBI.pdf">Download the Report here (pdf file)</a>
+
+**TECHTRONIX: A hi-tech case study using PowerBI.**
+
+![image](Image 4 PowerBI.PNG)
+
+Techtronix Innovations, a forefront player in the microchip and robotics industry, is encountering challenges in streamlining its sales strategies, optimizing production planning, and pursuing market expansion. The company boasts an extensive portfolio that caters to automotive, consumer electronics, and industrial sectors. However, it grapples with demand unpredictability, inventory management inefficiencies, and the identification of profitable market opportunities.
+
+Over the previous year, Techtronix Innovations has meticulously compiled a dataset encompassing each transaction, encompassing sales data, customer interactions, product specifics, and financial metrics. This dataset presents an invaluable opportunity for in-depth business performance analysis, trend identification, and insight extraction to inform strategic decisions.
+
+<a href="pdf 4 PowerBI.pdf">Download the Report here (pdf file)</a>
 
 **From Overstock to On-Point: T.T Inc.'s Inventory Optimization Journey.**
 
