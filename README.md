@@ -7,19 +7,33 @@ Hello! I'm Sakiru Akinpelu 🤓, a data analyst, Proactive and results-oriented 
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## CORE AND TECHNICAL SKILLS 
 
-**- ✅ Data Analytics**                   **- ✅ Data Modelling**
+**- ✅ Data Analytics** 
 
-**- ✅ Data Visualization**               **- ✅ Modelling**
+**- ✅ Data Modelling**
 
-**- ✅ SQL**                              **- ✅ Problem Solving**
+**- ✅ Data Visualization**  
 
-**- ✅ Teamwork and Collaboration**       **- ✅ Communication Skills  (Written and Verbal)**
+**- ✅ Modelling**
 
-**- ✅ Planning/organization skills**     **- ✅ MS Excel**
+**- ✅ SQL**   
 
-**- ✅ Power BI**                         **- ✅ Tableau**
+**- ✅ Problem Solving**
 
-**- ✅ Microsoft Fabrics**                **- ✅ Google**
+**- ✅ Teamwork and Collaboration**  
+
+**- ✅ Communication Skills  (Written and Verbal)**
+
+**- ✅ Planning/organization skills** 
+
+**- ✅ MS Excel**
+
+**- ✅ Power BI**         
+
+**- ✅ Tableau**
+
+**- ✅ Microsoft Fabrics**          
+
+**- ✅ Google**
 
 **- ✅ Analytics**
 
@@ -48,11 +62,12 @@ identify which webpage version performs better across various user engagement me
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**Data-Driven Employee Performance and Retention Platform.**
 
 ![image](Image 2 Attrition Dashboard new.PNG)
 
-On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
+To create a platform that predicts employee attrition, analyzes performance trends, and recommends personalized retention strategies based on historical and real-time data 
+<a href="pdf 1 Tableau.pdf">Download the Report here (pdf file)</a>
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
