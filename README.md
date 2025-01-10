@@ -1,4 +1,4 @@
-<!--Section 1: Introduce your self-->
+![image](https://github.com/user-attachments/assets/4b8c83bc-77f1-4e6b-bd9e-1b463d66688d)<!--Section 1: Introduce your self-->
 ## ABOUT ME
 
 Hello! I'm Sakiru Akinpelu 🤓, a data analyst, Proactive and results-oriented Data Analyst with four years of experience in translating complex data into actionable insights to drive business decisions. Skilled in Excel, SQL, and data visualization tools like Tableau and Power BI, with a proven ability to create scalable reporting tools and optimize key performance indicators. Strong business acumen, hands-on attitude, and a passion for end-to-end project management. Committed to diversity, inclusion, and bringing my authentic self to work every day..
@@ -43,6 +43,17 @@ Hello! I'm Sakiru Akinpelu 🤓, a data analyst, Proactive and results-oriented 
 
 *A glimpse of some of the projects I've been working on.*
 
+**Case Study: StrideStyle using PowerBI.**
+
+![image](Image 4 PowerBI.PNG)
+
+StrideStyle Footwear is a leading manufacturer specializing in footwear, offering a wide range of trendy and high-quality shoes for men, women, and children. With a diverse selection of brands and styles, StrideStyle Footwear aims to cater to the fashion preferences and lifestyle needs of its diverse customer base. Operating both online and
+through brick-and-mortar stores across multiple locations, the company is committed to providing exceptional customer service and fostering a memorable shopping experience.
+
+[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+
+<a href="pdf 4 PowerBI.pdf">Download the Report here (pdf file)</a>
+
 
 **TECHTRONIX: A hi-tech case study using PowerBI.**
 
@@ -69,9 +80,6 @@ identify which webpage version performs better across various user engagement me
 
 <a href="pdf 1 Tableau.pdf">Download the Report here (pdf file)</a>
 
-
-
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
 **Data-Driven Employee Performance and Retention Platform.**
 
