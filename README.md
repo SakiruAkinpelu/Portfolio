@@ -1,11 +1,29 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hello! I'm Anietie Etuk 🤓, a data analyst, educator, and consultant with a passion for turning data into actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth.
+Hello! I'm Sakiru Akinpelu 🤓, a data analyst, Proactive and results-oriented Data Analyst with four years of experience in translating complex data into actionable insights to drive business decisions. Skilled in Excel, SQL, and data visualization tools like Tableau and Power BI, with a proven ability to create scalable reporting tools and optimize key performance indicators. Strong business acumen, hands-on attitude, and a passion for end-to-end project management. Committed to diversity, inclusion, and bringing my authentic self to work every day..
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
-## WHAT I DO
+## CORE AND TECHNICAL SKILLS 
+
+Data Analytics
+Data Modelling
+Data Visualization
+Modelling 
+SQL 
+Problem Solving 
+Teamwork and  
+Collaboration 
+Communication Skills  (Written and Verbal) 
+Planning/organizatio n skills
+MS Excel 
+Power BI 
+Tableau 
+Microsoft Fabrics  
+Google
+Analytics
+
 
 *As the Chief Analyst of SkillAhead Solutions Ltd, I provide consulting and training services for businesses and mentor aspiring analysts.*
 
@@ -22,9 +40,10 @@ I offer comprehensive training programs in data analysis, visualization, and dat
 *A glimpse of some of the projects I've been working on.*
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
-![image](1 anietie etuk data analytics car project.jpeg)
+![image](Image 1.PNG)
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
+
 <a href="pdf 1 Tableau.pdf">Download the Report here (pdf file)</a>
 
 pdf 1 Tableau.pdf
