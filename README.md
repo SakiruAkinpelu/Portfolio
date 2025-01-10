@@ -72,7 +72,7 @@ To create a platform that predicts employee attrition, analyzes performance tren
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**From Overstock to On-Point: T.T Inc.'s Inventory Optimization Journey.**
 
 ![image](Image 3 SQL.PNG)
 
@@ -83,7 +83,21 @@ I have been asked by the Head of Supply Chain Management to present data insight
 ● Understanding seasonal trend of sales for different products.
 ● Improve customer satisfaction by ensuring product availability.
 
-<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
+<a href="PDF 3 SQL.pdf">Download the Report here (pdf file)</a>
+
+**From Overstock to On-Point: T.T Inc.'s Inventory Optimization Journey.**
+
+![image](Image 3 SQL.PNG)
+
+The team is having a supply chain strategy meeting for the following year, and i was asked to present insights from the inventory data to inform the inventory optimization strategy and enhance operational efficiency.
+I have been asked by the Head of Supply Chain Management to present data insights and optimization strategies for inventory management. Within the Supply Chain Management team, The objectives are:
+
+● Optimize inventory levels to minimize overstock and understock situations.
+● Understanding seasonal trend of sales for different products.
+● Improve customer satisfaction by ensuring product availability.
+
+<a href="PDF 3 SQL.pdf">Download the Report here (pdf file)</a>
+
 
 
 ## CONTACT DETAILS
