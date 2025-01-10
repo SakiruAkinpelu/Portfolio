@@ -25,6 +25,9 @@ I offer comprehensive training programs in data analysis, visualization, and dat
 ![image](1 anietie etuk data analytics car project.jpeg)
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
+<a href="pdf 1 Tableau.pdf">Download the Report here (pdf file)</a>
+
+pdf 1 Tableau.pdf
 
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
