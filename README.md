@@ -52,6 +52,15 @@ through brick-and-mortar stores across multiple locations, the company is commit
 
 [Read More](https://www.linkedin.com/posts/sakiruakinpelu_dataanalytics-powerbi-dashboard-activity-7219370239552028676-LjJ5?utm_source=share&utm_medium=member_desktop)
 
+**Plume: A Customer Behaviour Analysis using Excel.**
+
+![image](Image 4 PowerBI.PNG)
+
+Plume, a well-established e-commerce retailer, is, looking to gain deeper insights into customer behaviour to improve their online shopping experience and boost sales. ABC Retail has observed that their e-commerce platform is not achieving the desired level of success, given the substantial investment made in its development. The return on investment (ROI) for their online store has been lower than anticipated, indicating a need to enhance its revenue-generating capabilities.
+
+<a href="pdf 4 PowerBI.pdf">Download the Report here (pdf file)</a>
+
+
 
 **TECHTRONIX: A hi-tech case study using PowerBI.**
 
