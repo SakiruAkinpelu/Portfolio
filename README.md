@@ -134,6 +134,10 @@ I have been asked by the Head of Supply Chain Management to present data insight
 
 
 
+
+
+
+
 ## CONTACT DETAILS
 
 *Let’s connect and see how we can make a difference together!*
