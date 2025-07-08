@@ -132,9 +132,11 @@ I have been asked by the Head of Supply Chain Management to present data insight
 
 <a href="PDF 3 SQL.pdf">Download the Report here (pdf file)</a>
 
-PULSATING ENERGIES: unraveling the Impact of Energy Red Bull on Blood Pressure
+
+**PULSATING ENERGIES: unraveling the Impact of Energy Red Bull on Blood Pressure**
 
 ![image](Healthie Care Hospital Dashboard.png)
+
 The hospital's management is concerned about the growing popularity of energy drinks, particularly Red Bull, and its potential effects on blood pressure levels among individuals. 
 
 Recognizing my expertise in data analysis, and entrust me with the task of running a comprehensive analysis on a dataset of 120 volunteers.
@@ -142,7 +144,7 @@ Recognizing my expertise in data analysis, and entrust me with the task of runni
 The hospital administration wants me to unveil the story hidden within the data, to deliver a
 captivating narrative that will educate both staff and patients about the potential risks associated with consuming energy drinks. They seek insights into the impact of Red Bull on blood pressure, with a specific focus on gender disparities, age-related variations, and outlier responses.
 
-<a href="PDF 3 SQL.pdf">Download the Report here (pdf file)</a>
+<a href="HEALTHIE CARE Hospital.pptx">Download the Report here (pdf file)</a>
 
 
 
