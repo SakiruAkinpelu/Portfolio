@@ -52,7 +52,7 @@ through brick-and-mortar stores across multiple locations, the company is commit
 
 [Read More](https://www.linkedin.com/posts/sakiruakinpelu_dataanalytics-powerbi-dashboard-activity-7219370239552028676-LjJ5?utm_source=share&utm_medium=member_desktop)
 
-**StrideStyle Retailer Performance Analysis using PowerBI.**
+**Healthcare Dashboard with Power BI**
 
 ![image](Stridestyle Dashboard.PNG)
 
