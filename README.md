@@ -52,6 +52,15 @@ through brick-and-mortar stores across multiple locations, the company is commit
 
 [Read More](https://www.linkedin.com/posts/sakiruakinpelu_dataanalytics-powerbi-dashboard-activity-7219370239552028676-LjJ5?utm_source=share&utm_medium=member_desktop)
 
+**StrideStyle Retailer Performance Analysis using PowerBI.**
+
+![image](Stridestyle Dashboard.PNG)
+
+StrideStyle Footwear is a leading manufacturer specializing in footwear, offering a wide range of trendy and high-quality shoes for men, women, and children. With a diverse selection of brands and styles, StrideStyle Footwear aims to cater to the fashion preferences and lifestyle needs of its diverse customer base. Operating both online and
+through brick-and-mortar stores across multiple locations, the company is committed to providing exceptional customer service and fostering a memorable shopping experience.
+
+[Read More](https://www.linkedin.com/posts/sakiruakinpelu_dataanalytics-powerbi-dashboard-activity-7219370239552028676-LjJ5?utm_source=share&utm_medium=member_desktop)
+
 **Plume: A Customer Behaviour Analysis using Excel.**
 
 ![image](Plume.PNG)
