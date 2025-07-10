@@ -7,35 +7,35 @@ Hello! I'm Sakiru Akinpelu 🤓, a data analyst, Proactive and results-oriented 
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## CORE AND TECHNICAL SKILLS 
 
-**- ✅ Data Analytics** 
+**- Data Analytics** 
 
-**- ✅ Data Modelling**
+**- Data Modelling**
 
-**- ✅ Data Visualization**  
+**- Data Visualization**  
 
-**- ✅ Modelling**
+**- Modelling**
 
-**- ✅ SQL**   
+**- SQL**   
 
-**- ✅ Problem Solving**
+**- Problem Solving**
 
-**- ✅ Teamwork and Collaboration**  
+**- Teamwork and Collaboration**  
 
-**- ✅ Communication Skills  (Written and Verbal)**
+**- Communication Skills  (Written and Verbal)**
 
-**- ✅ Planning/organization skills** 
+**- Planning/organization skills** 
 
-**- ✅ MS Excel**
+**- MS Excel**
 
-**- ✅ Power BI**         
+**- Power BI**         
 
-**- ✅ Tableau**
+**- Tableau**
 
-**- ✅ Microsoft Fabrics**          
+**- Microsoft Fabrics**          
 
-**- ✅ Google**
+**- Google**
 
-**- ✅ Analytics**
+**- Analytics**
 
 
 <!--Section 2: List 3-4 key projects-->
@@ -96,8 +96,6 @@ identify which webpage version performs better across various user engagement me
 To create a platform that predicts employee attrition, analyzes performance trends, and recommends personalized retention strategies based on historical and real-time data 
 
 <a href="Pdf 2 Team Vega Project Presentation .pdf">Download the Report here (pdf file)</a>
-
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
 
 **User Experience (UX) Analysis for FlexTrade Online Shopping App using Excel.**
