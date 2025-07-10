@@ -46,7 +46,7 @@ Hello! I'm Sakiru Akinpelu 🤓, a data analyst, Proactive and results-oriented 
 
 **HR Analytics Dashboard – Power BI**
 
-![image](Healthcare Insight Dashboard.png)
+![image](HR Analytics Dashboard.png)
 
 This project involved designing and developing an interactive HR Analytics Dashboard using Power BI to support data-driven decision-making within a Human Resources (HR) context. The objective was to analyze employee-related metrics such as attrition, satisfaction, tenure, and performance across various departments and demographic segments.
 
@@ -62,10 +62,7 @@ Understand workforce distribution across roles, departments, and age groups
 
 As part of this project, I applied core data analytics skills including data cleaning, DAX calculations, data modeling, and visualization best practices. The final deliverable is a professional, interactive dashboard that allows stakeholders to explore critical HR metrics through dynamic filters and drill-down capabilities.
 
-
-
-
-[Read More](https://www.linkedin.com/posts/sakiruakinpelu_powerbi-dataanalytics-healthcareanalytics-activity-7346458575214448640-QbHi?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC59EgoBgS7eKl27blUUncLTGFkG0fbcbgs)
+<a href="HR Analytics Dashboard new Presentation Power BI.pdf">Download the Report here (pdf file)</a>
 
 
 **StrideStyle Retailer Performance Analysis using PowerBI.**
