@@ -43,6 +43,7 @@ Hello! I'm Sakiru Akinpelu 🤓, a data analyst, Proactive and results-oriented 
 
 *A glimpse of some of the projects I've worked on.*
 
+
 **StrideStyle Retailer Performance Analysis using PowerBI.**
 
 ![image](Stridestyle Dashboard.PNG)
@@ -52,12 +53,15 @@ through brick-and-mortar stores across multiple locations, the company is commit
 
 [Read More](https://www.linkedin.com/posts/sakiruakinpelu_dataanalytics-powerbi-dashboard-activity-7219370239552028676-LjJ5?utm_source=share&utm_medium=member_desktop)
 
+
 **Healthcare Dashboard with Power BI**
 
 ![image](Healthcare Insight Dashboard.png)
 
-StrideStyle Footwear is a leading manufacturer specializing in footwear, offering a wide range of trendy and high-quality shoes for men, women, and children. With a diverse selection of brands and styles, StrideStyle Footwear aims to cater to the fashion preferences and lifestyle needs of its diverse customer base. Operating both online and
-through brick-and-mortar stores across multiple locations, the company is committed to providing exceptional customer service and fostering a memorable shopping experience.
+This project involved the end-to-end development of an interactive Healthcare Insights Dashboard using Power BI. The objective was to analyze patient data to uncover trends in treatment outcomes, length of stay, medication adherence, and overall care satisfaction.
+
+By transforming raw health records into actionable visuals, the dashboard supports data-driven decision-making for healthcare managers and stakeholders. The project showcases my proficiency in data modeling, DAX, Power Query, and dashboard design principles with a focus on real-world KPIs relevant to hospital operations and patient outcomes.
+
 
 [Read More](https://www.linkedin.com/posts/sakiruakinpelu_powerbi-dataanalytics-healthcareanalytics-activity-7346458575214448640-QbHi?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC59EgoBgS7eKl27blUUncLTGFkG0fbcbgs)
 
