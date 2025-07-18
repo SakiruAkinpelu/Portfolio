@@ -65,6 +65,30 @@ As part of this project, I applied core data analytics skills including data cle
 <a href="HR Analytics Dashboard new Presentation Power BI.pdf">Download the Report here (pdf file)</a>
 
 
+**Analyzing Professional Trends Through Power BI**
+
+![image](Dashboard 3.png)
+
+In a rapidly evolving job market, data-driven insights are essential for strategic hiring, workforce planning, and career development. In this capstone project, I served as a Data Visualization Consultant tasked with transforming a comprehensive professional survey dataset into a compelling, interactive Power BI dashboard tailored for HR professionals, business leaders, and career advisors.
+
+The dataset featured responses from professionals across different regions, age groups, educational backgrounds, and skillsets. I followed a full data analysis lifecycle—cleaning raw data, modeling relationships, and building insightful visuals to uncover key trends such as salary distribution, job satisfaction metrics, intent to switch jobs, and skill demand.
+
+The final dashboard empowers stakeholders to:
+
+Identify high-earning professions and the impact of education on income
+
+Understand drivers of job satisfaction and mobility
+
+Detect trends in skill acquisition across experience levels
+
+Make informed, data-backed workforce decisions
+
+This project highlights my ability to turn complex survey data into actionable business intelligence using Power BI.
+
+<a href="Analyzing Professional Trends Workforce Insights Dashboard Port.pdf">Download the Report here (pdf file)</a>
+
+
+
 **StrideStyle Retailer Performance Analysis using PowerBI.**
 
 ![image](Stridestyle Dashboard.PNG)
