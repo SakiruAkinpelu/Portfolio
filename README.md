@@ -191,7 +191,7 @@ I have been asked by the Head of Supply Chain Management to present data insight
 <a href="PDF 3 SQL.pdf">Download the Report here (pdf file)</a>
 
 
-**PULSATING ENERGIES: unraveling the Impact of Energy Red Bull on Blood Pressure**
+**PULSATING ENERGIES: unraveling the Impact of Energy Red Bull on Blood Pressure Using Excel**
 
 ![image](Healthie Care Hospital Dashboard.png)
 
