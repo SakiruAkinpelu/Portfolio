@@ -5,37 +5,69 @@ Hello! I'm Sakiru Akinpelu 🤓, a data analyst, Proactive and results-oriented 
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
-## CORE AND TECHNICAL SKILLS 
+## Tools and Technologies 
 
-**- Data Analytics** 
+**- Dashboarding**     
 
-**- Data Modelling**
+**- Data Visualization**
 
-**- Data Visualization**  
+**- Descriptive Analytics**  
 
-**- Modelling**
+**- Diagnostic Analyticsg**
 
-**- SQL**   
+**- Predictive Analytics**   
 
-**- Problem Solving**
+**- Prescriptive Analytics**
 
-**- Teamwork and Collaboration**  
+**- KPI Monitoring and Reporting**  
 
 **- Communication Skills  (Written and Verbal)**
 
 **- Planning/organization skills** 
 
-**- MS Excel**
+**- Advanced Excel Analytics**
 
-**- Power BI**         
+**- Pivot Tables (Excel)**         
 
-**- Tableau**
+**- Data Cleaning and Transformation**
 
 **- Microsoft Fabrics**          
 
-**- Google**
+**- SQL for Data Analytics**
 
-**- Analytics**
+**- Statistical Analysis**
+
+**- Time Series Analysis**
+
+**- Performance Dashboards**
+
+**- Customer Analytics**
+
+**- Marketing Analytics**
+
+**- Operational Analytics**
+
+**- Power BI for Business Analytics**
+
+**- Tableau for Business Insights**
+
+**- Google Data Studio for Analytics**
+
+**- Survey Data Analysis**
+
+**- Visual Storytelling with Datas**
+
+**- DAX (Data Analysis Expressions) in Power BI**
+
+**- Excel Macros for Automation**
+
+**- Programming (Python)**
+
+**- Data Wrangling and Cleaning**
+
+## 4 Years Experience 
+
+## +20 Total Projects
 
 
 <!--Section 2: List 3-4 key projects-->
@@ -221,6 +253,7 @@ captivating narrative that will educate both staff and patients about the potent
 
 ## CONTACT DETAILS
 
+## Available For Hire 🚀 Crafting Digital Experiences 🎨
 *Let’s connect and see how we can make a difference together!*
 <table>
   <tbody>
