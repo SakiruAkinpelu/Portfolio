@@ -110,6 +110,14 @@ By transforming raw health records into actionable visuals, the dashboard suppor
 
 [Read More](https://www.linkedin.com/posts/sakiruakinpelu_powerbi-dataanalytics-healthcareanalytics-activity-7346458575214448640-QbHi?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC59EgoBgS7eKl27blUUncLTGFkG0fbcbgs)
 
+**Energy Market Resilience Metrics: Analyzing Vulnerabilities and Preparing for Disruptions using Python**
+
+![image](img 1.png)
+
+In this project, I collaborated with Amdari to support Energix Enterprise, a major player in the Energy and Utilities sector, in improving its market resilience. The project leveraged Python for deep data analysis, identifying vulnerabilities in energy production, market dynamics, infrastructure, and regulatory compliance.
+
+[Read More](https://www.linkedin.com/posts/sakiruakinpelu_dataanalytics-energymarket-resilienceplanning-activity-7353328242893668352-ndGP?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC59EgoBgS7eKl27blUUncLTGFkG0fbcbgs)
+
 
 
 **Plume: A Customer Behaviour Analysis using Excel.**
