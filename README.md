@@ -3,6 +3,8 @@
 
 Hello! I'm Sakiru Akinpelu 🤓, a data analyst, Proactive and results-oriented Data Analyst with four years of experience in translating complex data into actionable insights to drive business decisions. Skilled in Excel, SQL, and data visualization tools like Tableau and Power BI, with a proven ability to create scalable reporting tools and optimize key performance indicators. Strong business acumen, hands-on attitude, and a passion for end-to-end project management. Committed to diversity, inclusion, and bringing my authentic self to work every day..
 
+**4 Years Experience**
+**+20 Total Projects**
 
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## Tools and Technologies 
@@ -64,10 +66,6 @@ Hello! I'm Sakiru Akinpelu 🤓, a data analyst, Proactive and results-oriented 
 **- Programming (Python)**
 
 **- Data Wrangling and Cleaning**
-
-## 4 Years Experience 
-
-## +20 Total Projects
 
 
 <!--Section 2: List 3-4 key projects-->
@@ -253,7 +251,6 @@ captivating narrative that will educate both staff and patients about the potent
 
 ## CONTACT DETAILS
 
-## Available For Hire 🚀 Crafting Digital Experiences 🎨
 *Let’s connect and see how we can make a difference together!*
 <table>
   <tbody>
@@ -279,3 +276,5 @@ captivating narrative that will educate both staff and patients about the potent
     </tr>
   </tbody>
 </table>
+
+## Available For Hire 🚀 Crafting Digital Experiences 🎨
