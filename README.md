@@ -94,6 +94,16 @@ As part of this project, I applied core data analytics skills including data cle
 
 <a href="HR Analytics Dashboard new Presentation Power BI.pdf">Download the Report here (pdf file)</a>
 
+**Tenant Retention Optimization: Building an Interactive Power BI Dashboard for Residential Real Estate Excellence.**
+
+![image](Tenent Dash.png)
+
+HomeVibe Properties, a distinguished presence in the residential real estate sector, boasts an extensive portfolio of apartment complexes and single-family rental properties across multiple cities. Renowned for their commitment to providing exceptional housing solutions, HomeVibe Properties has consistently delivered quality living experiences, fostering vibrant communities. In a rapidly evolving real estate landscape, the company's adaptability, meticulous attention to detail, and unwavering pursuit of excellence have established it as a leader in the industry.
+
+However, within the ever-changing real estate market, HomeVibe Properties faces a distinct challenge—tenant retention. To address this critical concern comprehensively and unlock opportunities for sustainable growth, HomeVibe Properties embarked on a journey to leverage Power BI, a powerful business intelligence tool, to develop an end-to-end solution. This case study delves into HomeVibe Properties' strategic utilization of Power BI, outlining the entire workflow from data collection to an interactive dashboard, aimed at optimizing tenant retention and solidifying its position as a beacon of excellence in the residential real estate industry.
+
+[Read More](https://www.amdari.io/profile/sakiru-akinpelu-494?page-tab=3&portfolio-id=1821)
+
 
 **Analyzing Professional Trends Through Power BI**
 
