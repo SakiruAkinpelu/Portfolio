@@ -160,7 +160,7 @@ In this project, I collaborated with Amdari to support Energix Enterprise, a maj
 [Read More](https://www.linkedin.com/posts/sakiruakinpelu_dataanalytics-energymarket-resilienceplanning-activity-7353328242893668352-ndGP?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC59EgoBgS7eKl27blUUncLTGFkG0fbcbgs)
 
 
-**TSuperstore Sales Analysis & Interactive Dashboard**
+**Superstore Sales Analysis & Interactive Dashboard**
 
 ![image](Superstore_DB dashboard.png)
 
