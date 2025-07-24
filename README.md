@@ -170,6 +170,19 @@ The objective was to create a dynamic, interactive dashboard that not only summa
 
 <a href="Superstore_Dashboard_Insights_Presentation.pptx">Download the Report here (pdf file)</a>
 
+**Empowering Decision-Makers: Innovative Sales Data Visualization through Interactive Dashboards**
+
+![image](Clarex Sales Dashboard.png)
+
+CLEARX Cosmetics is a new cosmetic company operating in Nigeria. With a dedicated team of 25 staff members, the company specializes in producing and distributing a wide range of cosmetic products, including skincare, makeup and fragrances. CLEARX Cosmetics have a reputation for offering high-quality, locally-sourced products that cater to the diverse beauty needs of its Nigerian customers. The company operates two branches strategically located in different parts of Nigeria, serving as hubs for product distribution and customer engagement.
+
+In just 2 years in business, CLEARX Cosmetics has continually expanded its product range to meet the evolving beauty needs of its customers. The company invests in research and development to stay at the forefront of cosmetic innovation. This commitment has allowed CLEARX Cosmetics to offer a diverse portfolio of that includes skincare items like moisturizers, cleansers, and serums, makeup products such as foundations, lipsticks, and eyeshadows, as well as an array of fragrances and fashion accessories.
+
+CLEARX Cosmetics was established in 2021 and it is a cosmetics company in Nigeria known for its commitment to quality, innovation, and community engagement. With a diverse product range, locally-sourced ingredients, and a customer-centric approach, the company has solidified position as a trusted name in the Nigerian beauty industry and is poised for further growth and expansion.
+
+
+[Read More](https://www.amdari.io/profile/sakiru-akinpelu-494?page-tab=3&portfolio-id=793)
+
 
 **Plume: A Customer Behaviour Analysis using Excel.**
 
