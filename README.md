@@ -308,6 +308,14 @@ captivating narrative that will educate both staff and patients about the potent
       <td>🌐</td>
       <td><a href="https://www.linkedin.com/in/sakiruakinpelu/">Check me out on LinkedIn</a></td>
     </tr>
+     <tr>
+      <td>🌐</td>
+      <td><a href="https://x.com/akinpelu_sakiru/">Check me out on X</a></td>
+    </tr>
+    <tr>
+      <td>🌐</td>
+      <td><a href="https://www.instagram.com/sakiruakinpeluayobanji//">Check me out on Instagram</a></td>
+    </tr>
   </tbody>
 </table>
 
