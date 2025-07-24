@@ -319,4 +319,4 @@ captivating narrative that will educate both staff and patients about the potent
   </tbody>
 </table>
 
-## Available For Hire 🚀 Crafting Digital Experiences 🎨
+**Available For Hire 🚀 Crafting Digital Experiences 🎨**
