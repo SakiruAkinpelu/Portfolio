@@ -138,6 +138,16 @@ This project highlights my ability to turn complex survey data into actionable b
 <a href="Analyzing Professional Trends Workforce Insights Dashboard Port.pdf">Download the Report here (pdf file)</a>
 
 
+**In-Mail Voting Analysis: Leveraging Data to Address Election Post-Mortems and Enhance the Democratic Process**
+
+![image](Dash 1.png)
+
+Vote-Tech Solutions is a prominent technology firm that specializes in providing cutting-edge election management and voter engagement solutions tailored for government and public service organizations. With a history marked by continuous innovation and unwavering reliability, VoteTech Solutions has earned its reputation as a trusted partner for government agencies. The company plays a crucial role in ensuring the smooth execution of democratic processes, contributing to the enhancement of citizen participation in the electoral system.
+
+At the core of Vote-Tech Solutions' mission is a commitment to advancing the democratic process by leveraging technology to streamline election management and foster increased citizen engagement. By delivering innovative solutions, the company aims to empower government agencies with tools that not only enhance the efficiency of electoral processes but also contribute to a more inclusive and participatory democratic experience for citizens. With a focus on technological excellence, VoteTech Solutions continues to play a pivotal role in shaping the future of election management and voter engagement.
+
+<a href="Election PowerBI Dashboard.pdf">Download the Report here (pdf file)</a>
+
 
 **StrideStyle Retailer Performance Analysis using PowerBI.**
 
