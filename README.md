@@ -75,6 +75,16 @@ Hello! I'm Sakiru Akinpelu 🤓, a data analyst, Proactive and results-oriented 
 *A glimpse of some of the projects I've worked on.*
 
 
+**E-Commerce Sales Performance Dashboard**
+
+![image](Screenshot 2025-08-22 145947.png)
+
+I designed this interactive E-commerce Sales Dashboard in Excel to provide business leaders and stakeholders with a clear overview of sales performance and operational insights.
+
+This dashboard demonstrates my ability to translate raw data into strategic insights, helping businesses monitor performance, identify opportunities, and make informed data-driven decisions.
+
+<a href="HR Analytics Dashboard new Presentation Power BI.pdf">Download the Report here (pdf file)</a>
+
 **HR Analytics Dashboard – Power BI**
 
 ![image](HR Analytics Dashboard.png)
@@ -94,6 +104,7 @@ Understand workforce distribution across roles, departments, and age groups
 As part of this project, I applied core data analytics skills including data cleaning, DAX calculations, data modeling, and visualization best practices. The final deliverable is a professional, interactive dashboard that allows stakeholders to explore critical HR metrics through dynamic filters and drill-down capabilities.
 
 <a href="HR Analytics Dashboard new Presentation Power BI.pdf">Download the Report here (pdf file)</a>
+
 
 **Tenant Retention Optimization: Building an Interactive Power BI Dashboard for Residential Real Estate Excellence.**
 
