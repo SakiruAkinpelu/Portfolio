@@ -83,7 +83,7 @@ I designed this interactive E-commerce Sales Dashboard in Excel to provide busin
 
 This dashboard demonstrates my ability to translate raw data into strategic insights, helping businesses monitor performance, identify opportunities, and make informed data-driven decisions.
 
-<a href="HR Analytics Dashboard new Presentation Power BI.pdf">Download the Report here (pdf file)</a>
+
 
 **HR Analytics Dashboard – Power BI**
 
