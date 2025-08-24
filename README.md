@@ -157,8 +157,7 @@ Vote-Tech Solutions is a prominent technology firm that specializes in providing
 
 At the core of Vote-Tech Solutions' mission is a commitment to advancing the democratic process by leveraging technology to streamline election management and foster increased citizen engagement. By delivering innovative solutions, the company aims to empower government agencies with tools that not only enhance the efficiency of electoral processes but also contribute to a more inclusive and participatory democratic experience for citizens. With a focus on technological excellence, VoteTech Solutions continues to play a pivotal role in shaping the future of election management and voter engagement.
 
-<a href="Election PowerBI Dashboard.pdf">Download the Report here (pdf file)</a>
-
+[Read More](https://mercy-williams-porfolio.my.canva.site/in-mail-voting-analysis-leveraging-data-to-address-election-post-mortems-and-enhance-the-democratic-process)
 
 **StrideStyle Retailer Performance Analysis using PowerBI.**
 
