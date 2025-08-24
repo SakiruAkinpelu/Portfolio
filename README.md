@@ -124,7 +124,7 @@ TechElectro Inc. is a prominent player in the consumer electronics manufacturing
 
 One of TechElectro's distinguishing features is its expansive global presence. Operating in numerous countries, the company has successfully extended its reach to a wide customer base, making it a truly international entity. This global footprint allows TechElectro Inc. to cater to the diverse preferences and demands of customers in various regions, further solidifying its position as an industry leader.
 
-[Read More](https://www.amdari.io/profile/sakiru-akinpelu-494?page-tab=3&portfolio-id=1828)
+[Read More](https://mercy-williams-porfolio.my.canva.site/creative-portfolio/#page-PBC4j0HSTYJk34hj)
 
 **Analyzing Professional Trends Through Power BI**
 
